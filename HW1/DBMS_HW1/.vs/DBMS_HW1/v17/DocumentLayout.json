@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|d:\\facultate\\an 2\\sem 2\\dbms\\hw1\\dbms_hw1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BA3D87-3CE8-4020-9DE7-B7AA9F1E6665}|DBMS_HW1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:15:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-31T11:50:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAYwFQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:09:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:07:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T11:06:05.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\Facultate\\An 2\\sem 2\\DBMS\\HW1\\DBMS_HW1\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-31T11:15:06.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

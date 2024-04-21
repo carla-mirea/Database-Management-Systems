@@ -1,0 +1,10 @@
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\bin\Debug\HW2.exe.config
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\bin\Debug\HW2.exe
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\bin\Debug\HW2.pdb
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.csproj.AssemblyReference.cache
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.Form1.resources
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.cache
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.exe
+D:\Facultate\An 2\sem 2\DBMS\HW2\HW2\obj\Debug\HW2.pdb
